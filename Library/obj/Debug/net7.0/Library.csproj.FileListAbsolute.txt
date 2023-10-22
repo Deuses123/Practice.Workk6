@@ -1,0 +1,11 @@
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\bin\Debug\net7.0\Library.deps.json
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\bin\Debug\net7.0\Library.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\bin\Debug\net7.0\Library.pdb
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\obj\Debug\net7.0\Library.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\obj\Debug\net7.0\refint\Library.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\obj\Debug\net7.0\Library.pdb
+C:\Users\Sanzhar\RiderProjects\Practice.Workk6\Library\obj\Debug\net7.0\ref\Library.dll
